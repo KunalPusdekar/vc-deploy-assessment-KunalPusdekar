@@ -10,6 +10,6 @@ To me, version control is a system that helps developers track changes in their 
 
 | Platform | Username        |
 |----------|------------------|
-| Git      | kunalpusdekar   |
+| Git      | KunalPusdekar   |
 | GitHub   | KunalPusdekar   |
-| Vercel   | kunal-dev       |
+| Vercel   | kunalpusdekar     |
