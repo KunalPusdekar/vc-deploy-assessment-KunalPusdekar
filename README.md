@@ -13,3 +13,6 @@ To me, version control is a system that helps developers track changes in their 
 | Git      | KunalPusdekar   |
 | GitHub   | KunalPusdekar   |
 | Vercel   | kunalpusdekar     |
+
+## Live Deployment
+You can access the deployed TODO project here: [Vercel Link](https://vc-deploy-assessment-kunal-pusdekar-kappa.vercel.app/)
